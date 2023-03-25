@@ -4,8 +4,7 @@
 <img src="https://64.media.tumblr.com/b1409ef53e62d60489ca962ab9f0ba3e/66276421c59411ee-b6/s400x600/852ddb3c8b38d481707b06d34d5a3162a86a7555.gif" alt="A woman greets a hand coming out of a computer screen"/>
 </p>
 
-🖥 My name is Marcelo, I'm a brazilian software engineering student that loves studying new technologies  
-📖 I'm currently studying web development with React + Go
+👋 My name is Marcelo, I'm a brazilian software engineering student that loves frontend development  
 
 ## Favorite technologies
 
